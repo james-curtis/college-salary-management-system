@@ -1,0 +1,13 @@
+id,rule_name,rule_remark,rule_define
+1,teacher_salary,教师,800+((last_semester_workload-120)*20)
+2,tester_salary,实验员,650+150
+3,administration_salary,行政人员,750+250
+4,teacher_part_time_experimenter_salary,教师兼职实验员,(800+650)+(((last_semester_workload-120)*20)+((last_semester_workload-70)*20))+150
+5,administrative_part_time_teacher,行政人员兼职教师,(750+800)+250+(((last_semester_workload-120)*20)+((last_semester_workload-70)*20))
+6,teacher_basic_salary,教师基本工资,800
+7,tester_basic_salary,实验员基本工资,650
+8,administration_basic_salary,行政人员基本工资,750
+9,teacher_basic_workload,教师基本工作量,120
+10,tester_basic_workload,实验员基本工作量,70
+11,lab_subsidy,实验室补贴,150
+12,administration_subsidy,行政补贴,250

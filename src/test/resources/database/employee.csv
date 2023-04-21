@@ -1,0 +1,11 @@
+id,work_no,name,job,salary_rule
+1,1,戴嘉伦,教师,teacher_salary
+2,2,蒋宇宁,实验员,tester_salary
+3,3,龚杰宏,行政人员,administration_salary
+4,4,郝云熙,教师兼职实验员,teacher_part_time_experimenter_salary
+5,5,汪岚,行政人员兼职教师,administrative_part_time_teacher
+6,6,李子异,教师,teacher_salary
+7,7,钟云熙,实验员,tester_salary
+8,8,黄晓明,行政人员,administration_salary
+9,9,梁宇宁,教师兼职实验员,teacher_part_time_experimenter_salary
+10,10,阎詩涵,行政人员兼职教师,administrative_part_time_teacher
